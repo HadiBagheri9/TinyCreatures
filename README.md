@@ -6,5 +6,12 @@
 ## Included Skills
 
 - OOP
+  - Inheritance
+    - Abstract class
+    - Interface
+
+  - Method
+    - Extension Method
+    - Abstract Method
+
   - Properties
-  - Inheritance(abstract class and interface)
